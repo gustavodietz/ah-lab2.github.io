@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: https://mitmuseum.mit.edu/sites/default/files/cajal-webpage.jpg
+  image_fullwidth: cajal-webpage.jpg
 widget1:
   title: "research"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
