@@ -66,6 +66,10 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: "Mindfulness"
+  url: "/mindfulness/"
+  side: right
+
 - title: "Search"
   url: "/search/"
   side: right
