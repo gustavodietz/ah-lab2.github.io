@@ -16,11 +16,11 @@ widget2:
   title: "publications"
   url: 'http://phlow.github.io/feeling-responsive/info/'
   text: 'Through the years numerous publications from our lab has been published by the most renamed world editors'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://www.webdesignerdepot.com/cdn-origin/uploads/visualization_tools/walrus.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "lab"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
+  image: visualizinginformationflowinscience.jpg
   text: 'In the Lab we believe in open knowledge and never use again wordpress'
 #
 # Use the call for action to show a button on the frontpage
