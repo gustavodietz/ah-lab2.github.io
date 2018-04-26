@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "publications"
   url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: 'Through the years numerous publications from our lab has been published by the most renamed world editors'
+  text: 'Through the years numerous publications from our lab has been published'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://www.webdesignerdepot.com/cdn-origin/uploads/visualization_tools/walrus.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "lab"
