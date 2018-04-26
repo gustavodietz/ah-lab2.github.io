@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: http://www.minnesotamonthly.com/img_2017-01_The-Beautiful-Brain_X.jpg
 widget1:
   title: "research"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
